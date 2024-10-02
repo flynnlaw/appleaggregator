@@ -1,0 +1,75 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ProductPanel from '../components/ProductPanel.astro';
+import laptopsData from '../data/data.json';
+
+
+interface PaneItem {
+  href: string;
+  svgPath: string;
+  text: string;
+  customClass: string;
+}
+
+const selectedConfigurations = [
+  { config: laptopsData.hardware.watches[0].configurations[0], model: laptopsData.hardware.watches[0] },
+  { config: laptopsData.hardware.watches[1].configurations[0], model: laptopsData.hardware.watches[1] },
+  { config: laptopsData.hardware.watches[2].configurations[0], model: laptopsData.hardware.watches[2] }
+];
+
+
+const paneItems: PaneItem[] = [
+  {
+    href: '/watch-series-10',
+    svgPath: '/icons/watch_10_icon.svg',
+    text: 'Apple Watch Series 10',
+    customClass: 'iphone-16-style',
+  },
+  {
+    href: '/watch-ultra-2',
+    svgPath: '/icons/watch_ultra_2_icon.svg',
+    text: 'Apple Watch Ultra 2',
+    customClass: 'iphone-16-style',
+  },
+  {
+    href: '/watch-se',
+    svgPath: '/icons/watch_se_icon.svg',
+    text: 'Apple Watch SE',
+    customClass: 'iphone-16-style',
+  },
+];
+
+
+---
+<Layout title="Welcome to Astro." paneItems={paneItems}>
+  <main>
+	  <ul role="list" class="link-card-grid">
+      {selectedConfigurations.map(({ config, model }, index) => (
+        <li>
+          <ProductPanel
+            imageUrl={model.imageUrl}
+            specs={config.specs}
+            pricing={config.pricing}
+          />
+        </li>
+      ))}
+    </ul>
+  </main>
+</Layout>
+
+<style>
+  main {
+    margin: auto;
+    padding: 1rem;
+    width: 100%;
+    max-width: 1200px;
+    color: white;
+    font-size: 20px;
+    line-height: 1.6;
+  }
+  .link-card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+</style>

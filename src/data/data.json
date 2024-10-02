@@ -1,0 +1,5251 @@
+{
+  "hardware": {
+    "macs": [
+      {
+        "model": "Macbook Pro 14-inch",
+        "imageUrl": "/content/mac/mbp.jpeg",
+        "configurations": [
+          {
+            "id": "MTL73",
+            "specs": [
+              "14-inch",
+              "M3",
+              "8GB",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1599.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2099.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31699.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1999.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9169900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1999.00"
+              },
+              {
+                "country": "Japan",
+                "price": "248800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "39999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MTL83",
+            "specs": [
+              "14 inch",
+              "M3",
+              "8GB",
+              "1TB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1799.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2349.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31899.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2229.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9189900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2229.00"
+              },
+              {
+                "country": "Japan",
+                "price": "278800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "44999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MXE03",
+            "specs": [
+              "14 inch",
+              "M3",
+              "16GB",
+              "1TB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1999.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2599.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a32099.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2459.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9209900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2459.00"
+              },
+              {
+                "country": "Japan",
+                "price": "308800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "49999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MRX33",
+            "specs": [
+              "14 inch",
+              "M3 Pro",
+              "18GB",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1999.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2699.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a32099.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2499.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9199900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2499.00"
+              },
+              {
+                "country": "Japan",
+                "price": "328800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "49999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MRX43",
+            "specs": [
+              "14 inch",
+              "M3 Pro",
+              "18GB",
+              "1TB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$2399.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$3249.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a32499.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2999.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9239900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2999.00"
+              },
+              {
+                "country": "Japan",
+                "price": "398800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "59999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MRX53",
+            "specs": [
+              "14 inch",
+              "M3 Max",
+              "36GB",
+              "1TB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$3199.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$4349.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a33299.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac3999.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9319900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac3999.00"
+              },
+              {
+                "country": "Japan",
+                "price": "538800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "79999000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "Macbook Pro 16-inch",
+        "imageUrl": "/content/mac/mbp.jpeg",
+        "configurations": [
+          {
+            "id": "MRW13",
+            "specs": [
+              "16 inch",
+              "M3 Pro",
+              "18GB",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$2499.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$3299.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a32599.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2999.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9249900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2999.00"
+              },
+              {
+                "country": "Japan",
+                "price": "398800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "64999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MRW23",
+            "specs": [
+              "16 inch",
+              "M3 Pro",
+              "36GB",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$2899.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$3799.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a32999.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac3459.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9289900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac3459.00"
+              },
+              {
+                "country": "Japan",
+                "price": "458800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "74999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MRW33",
+            "specs": [
+              "16 inch",
+              "M3 Max",
+              "36GB",
+              "1TB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$3499.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$4649.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a33599.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac4249.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9349900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac4249.00"
+              },
+              {
+                "country": "Japan",
+                "price": "554800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "89999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MUW63",
+            "specs": [
+              "16 inch",
+              "M3 Max",
+              "48GB",
+              "1TB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$3999.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$5299.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a34099.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac4849.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9399900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac4849.00"
+              },
+              {
+                "country": "Japan",
+                "price": "644800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "102499000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "Macbook Air 13-inch (M2)",
+        "imageUrl": "/content/mac/mba.jpeg",
+        "configurations": [
+          {
+            "id": "MLXY3",
+            "specs": [
+              "13 inch",
+              "M2",
+              "8GB",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$999.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1299.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3999.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1199.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b999900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1199.00"
+              },
+              {
+                "country": "Japan",
+                "price": "148800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "24999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MLXX3",
+            "specs": [
+              "13 inch",
+              "M2",
+              "8GB",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1199.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1549.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31199.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1429.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9119900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1429.00"
+              },
+              {
+                "country": "Japan",
+                "price": "178800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "29999000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "Macbook Air 13-inch (M3)",
+        "imageUrl": "/content/mac/mba.jpeg",
+        "configurations": [
+          {
+            "id": "MRXN3",
+            "specs": [
+              "13 inch",
+              "M3",
+              "8GB",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1099.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1449.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31099.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1299.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9114900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1299.00"
+              },
+              {
+                "country": "Japan",
+                "price": "164800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "27999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MRXP3",
+            "specs": [
+              "13 inch",
+              "M3",
+              "8GB",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1299.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1699.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31299.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1529.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9134900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1529.00"
+              },
+              {
+                "country": "Japan",
+                "price": "194800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "32999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MXCR3",
+            "specs": [
+              "13 inch",
+              "M3",
+              "16GB",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1499.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1949.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31499.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1759.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9154900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1759.00"
+              },
+              {
+                "country": "Japan",
+                "price": "224800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "37999000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "Macbook Air 15-inch (M3)",
+        "imageUrl": "/content/mac/mba.jpeg",
+        "configurations": [
+          {
+            "id": "MRYM3",
+            "specs": [
+              "15 inch",
+              "M3",
+              "8GB",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1299.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1749.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31299.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1599.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9134900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1599.00"
+              },
+              {
+                "country": "Japan",
+                "price": "198800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "32999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MRYN3",
+            "specs": [
+              "15 inch",
+              "M3",
+              "8GB",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1499.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1999.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31499.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1829.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9154900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1829.00"
+              },
+              {
+                "country": "Japan",
+                "price": "228800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "37999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MXD13",
+            "specs": [
+              "15 inch",
+              "M3",
+              "16GB",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1699.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2249.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31699.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2059.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9174900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2059.00"
+              },
+              {
+                "country": "Japan",
+                "price": "258800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "42999000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "iMac",
+        "imageUrl": "/content/mac/imac.jpeg",
+        "configurations": [
+          {
+            "id": "MQR93",
+            "specs": [
+              "24 inch",
+              "M3 (8C,8G)",
+              "8GB",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1299.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1699.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31399.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1599.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9134900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1599.00"
+              },
+              {
+                "country": "Japan",
+                "price": "198800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "36999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MQRJ3",
+            "specs": [
+              "24 inch",
+              "M3 (8C,10G)",
+              "8GB",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1499.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1949.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31599.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1829.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9154900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1829.00"
+              },
+              {
+                "country": "Japan",
+                "price": "234800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "41999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MQRK3",
+            "specs": [
+              "15 inch",
+              "M3 (8C,10G)",
+              "8GB",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1699.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2199.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31799.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2059.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9174900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2059.00"
+              },
+              {
+                "country": "Japan",
+                "price": "264800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "46999000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "Mac mini",
+        "imageUrl": "/content/mac/mac-mini.jpeg",
+        "configurations": [
+          {
+            "id": "MMFJ3",
+            "specs": [
+              "M2",
+              "8GB",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$599.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$799.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3649.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac699.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b959900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac699.00"
+              },
+              {
+                "country": "Japan",
+                "price": "84800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "14999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MMFK3",
+            "specs": [
+              "M2",
+              "8GB",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$799.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1049.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3849.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac929.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b979900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac929.00"
+              },
+              {
+                "country": "Japan",
+                "price": "114800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "19999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MNH73",
+            "specs": [
+              "M2 Pro",
+              "16GB",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1299.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1699.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31399.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1549.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9129900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1549.00"
+              },
+              {
+                "country": "Japan",
+                "price": "184800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "31999000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "Mac Studio",
+        "imageUrl": "/content/mac/mac-studio.jpeg",
+        "configurations": [
+          {
+            "id": "MQH73",
+            "specs": [
+              "M2 Max",
+              "32GB",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1999.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2699.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a32099.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2399.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9209900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2399.00"
+              },
+              {
+                "country": "Japan",
+                "price": "298800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "54999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MQH63",
+            "specs": [
+              "M2 Ultra",
+              "64GB",
+              "1TB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$3999.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$5499.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a34199.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac4799.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9419900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac4799.00"
+              },
+              {
+                "country": "Japan",
+                "price": "598800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "109999000\u0111"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ipads": [
+      {
+        "model": "iPad Pro 11-inch",
+        "imageUrl": "/content/ipad/ipad-pro-11.png",
+        "configurations": [
+          {
+            "id": "MVV83",
+            "specs": [
+              "M4",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$999.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1399.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3999.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1199.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b915817.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1219.00"
+              },
+              {
+                "country": "Japan",
+                "price": "168800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "28999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MVVC3",
+            "specs": [
+              "M4",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1199.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1679.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31199.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1449.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b919150.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1469.00"
+              },
+              {
+                "country": "Japan",
+                "price": "204800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "34499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MVVE3",
+            "specs": [
+              "M4",
+              "1TB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1599.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2229.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31599.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1929.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b925817.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1949.00"
+              },
+              {
+                "country": "Japan",
+                "price": "272800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "45999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MWR63",
+            "specs": [
+              "M4",
+              "1TB",
+              "Nano-texture glass"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1699.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2379.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31699.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2059.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b927483.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2079.00"
+              },
+              {
+                "country": "Japan",
+                "price": "288800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "48499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MVVG3",
+            "specs": [
+              "M4",
+              "2TB",
+              "Nano-texture glass"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1999.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2779.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31999.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2409.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b932483.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2429.00"
+              },
+              {
+                "country": "Japan",
+                "price": "340800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "57499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MWR83",
+            "specs": [
+              "M4",
+              "2TB",
+              "Nano-texture glass"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$2099.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2929.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a32099.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2539.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b934150.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2559.00"
+              },
+              {
+                "country": "Japan",
+                "price": "356800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "59999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MVW13",
+            "specs": [
+              "M4",
+              "256GB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1199.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1679.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31199.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1449.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b919150.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1469.00"
+              },
+              {
+                "country": "Japan",
+                "price": "204800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "34499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MVW33",
+            "specs": [
+              "M4",
+              "512GB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1399.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1959.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31399.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1699.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b922483.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1719.00"
+              },
+              {
+                "country": "Japan",
+                "price": "240800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "39999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MVW53",
+            "specs": [
+              "M4",
+              "1TB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1799.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2509.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31799.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2179.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b929150.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2199.00"
+              },
+              {
+                "country": "Japan",
+                "price": "308800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "51499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MWRP3",
+            "specs": [
+              "M4",
+              "1TB",
+              "Nano-texture glass",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1899.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2659.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31899.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2309.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b930817.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2329.00"
+              },
+              {
+                "country": "Japan",
+                "price": "324800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "53999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MVW73",
+            "specs": [
+              "M4",
+              "2TB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$2199.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$3059.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a32199.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2659.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b935817.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2679.00"
+              },
+              {
+                "country": "Japan",
+                "price": "376800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "62999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MWRR3",
+            "specs": [
+              "M4",
+              "2TB",
+              "Nano-texture glass",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$2299.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$3209.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a32299.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2789.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b937483.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2809.00"
+              },
+              {
+                "country": "Japan",
+                "price": "392800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "65499000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "iPad Pro 13-inch",
+        "imageUrl": "/content/ipad/ipad-pro-13.png",
+        "configurations": [
+          {
+            "id": "MVX23",
+            "specs": [
+              "M4",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1299.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1799.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31299.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1549.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b920817.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1569.00"
+              },
+              {
+                "country": "Japan",
+                "price": "218800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "37999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MVX43",
+            "specs": [
+              "M4",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1499.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2079.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31499.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1799.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b924150.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1819.00"
+              },
+              {
+                "country": "Japan",
+                "price": "254800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "43499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MVX63",
+            "specs": [
+              "M4",
+              "1TB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1899.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2629.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31899.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2279.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b930817.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2299.00"
+              },
+              {
+                "country": "Japan",
+                "price": "322800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "54999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MWRF3",
+            "specs": [
+              "M4",
+              "1TB",
+              "Nano-texture glass"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1999.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2779.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31999.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2409.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b932483.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2429.00"
+              },
+              {
+                "country": "Japan",
+                "price": "338800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "57499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MVX83",
+            "specs": [
+              "M4",
+              "2TB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$2299.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$3179.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a32299.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2759.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b937483.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2779.00"
+              },
+              {
+                "country": "Japan",
+                "price": "390800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "66499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MWRH3",
+            "specs": [
+              "M4",
+              "2TB",
+              "Nano-texture glass"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$2399.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$3329.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a32399.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2889.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b939150.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2909.00"
+              },
+              {
+                "country": "Japan",
+                "price": "406800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "68999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MVXR3",
+            "specs": [
+              "M4",
+              "256GB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1499.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2079.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31499.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1799.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b924150.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1819.00"
+              },
+              {
+                "country": "Japan",
+                "price": "254800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "43499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MVXU3",
+            "specs": [
+              "M4",
+              "512GB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1699.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2359.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31699.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2049.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b927483.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2069.00"
+              },
+              {
+                "country": "Japan",
+                "price": "290800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "48999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MVXW3",
+            "specs": [
+              "M4",
+              "1TB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$2099.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2909.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a32099.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2529.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b934150.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2549.00"
+              },
+              {
+                "country": "Japan",
+                "price": "358800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "60499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MWRY3",
+            "specs": [
+              "M4",
+              "1TB",
+              "Nano-texture glass",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$2199.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$3059.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a32199.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac2659.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b935817.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac2679.00"
+              },
+              {
+                "country": "Japan",
+                "price": "374800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "62999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MVXY3",
+            "specs": [
+              "M4",
+              "2TB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$2499.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$3459.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a32499.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac3009.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b940817.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac3029.00"
+              },
+              {
+                "country": "Japan",
+                "price": "426800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "71999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MWT13",
+            "specs": [
+              "M4",
+              "2TB",
+              "Nano-texture glass",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$2599.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$3609.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a32599.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac3139.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b942483.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac3159.00"
+              },
+              {
+                "country": "Japan",
+                "price": "442800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "74499000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "iPad Air 11-inch",
+        "imageUrl": "/content/ipad/ipad-air-11.png",
+        "configurations": [
+          {
+            "id": "MUWC3",
+            "specs": [
+              "M2",
+              "128GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$599.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$799.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3599.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac699.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b99317.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac719.00"
+              },
+              {
+                "country": "Japan",
+                "price": "98800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "16999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MUWG3",
+            "specs": [
+              "M2",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$699.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$949.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3699.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac829.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b910983.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac849.00"
+              },
+              {
+                "country": "Japan",
+                "price": "114800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "19499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MUWL3",
+            "specs": [
+              "M2",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$899.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1229.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3899.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1079.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b914317.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1099.00"
+              },
+              {
+                "country": "Japan",
+                "price": "150800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "24999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MUWQ3",
+            "specs": [
+              "M2",
+              "1TB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1099.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1509.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31099.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1329.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b917650.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1349.00"
+              },
+              {
+                "country": "Japan",
+                "price": "186800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "30499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MUXD3",
+            "specs": [
+              "M2",
+              "128GB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$749.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$999.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3749.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac869.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b911817.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac889.00"
+              },
+              {
+                "country": "Japan",
+                "price": "124800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "20999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MUXH3",
+            "specs": [
+              "M2",
+              "256GB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$849.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1149.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3849.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac999.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b913483.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1019.00"
+              },
+              {
+                "country": "Japan",
+                "price": "140800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "23499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MUXM3",
+            "specs": [
+              "M2",
+              "512GB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1049.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1429.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31049.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1249.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b916817.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1269.00"
+              },
+              {
+                "country": "Japan",
+                "price": "176800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "28999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MUXR3",
+            "specs": [
+              "M2",
+              "1TB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1249.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1709.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31249.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1499.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b920150.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1519.00"
+              },
+              {
+                "country": "Japan",
+                "price": "212800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "34499000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "iPad Air 13-inch",
+        "imageUrl": "/content/ipad/ipad-air-13.png",
+        "configurations": [
+          {
+            "id": "MV273",
+            "specs": [
+              "M2",
+              "128GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$799.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1099.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3799.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac949.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b912650.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac969.00"
+              },
+              {
+                "country": "Japan",
+                "price": "128800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "22499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MV2D3",
+            "specs": [
+              "M2",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$899.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1249.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3899.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1079.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b914317.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1099.00"
+              },
+              {
+                "country": "Japan",
+                "price": "144800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "24999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MV2J3",
+            "specs": [
+              "M2",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1099.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1529.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31099.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1329.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b917650.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1349.00"
+              },
+              {
+                "country": "Japan",
+                "price": "180800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "30499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MV2P3",
+            "specs": [
+              "M2",
+              "1TB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1299.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1809.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31299.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1579.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b920983.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1599.00"
+              },
+              {
+                "country": "Japan",
+                "price": "216800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "35999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MV6Q3",
+            "specs": [
+              "M2",
+              "128GB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$949.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1299.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3949.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1119.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b915150.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1139.00"
+              },
+              {
+                "country": "Japan",
+                "price": "154800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "26499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MV6V3",
+            "specs": [
+              "M2",
+              "256GB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1049.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1449.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31049.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1249.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b916817.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1269.00"
+              },
+              {
+                "country": "Japan",
+                "price": "170800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "28999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MV703",
+            "specs": [
+              "M2",
+              "512GB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1249.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1729.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31249.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1499.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b920150.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1519.00"
+              },
+              {
+                "country": "Japan",
+                "price": "206800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "34499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MV743",
+            "specs": [
+              "M2",
+              "1TB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1449.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$2009.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31449.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1749.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b923483.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1769.00"
+              },
+              {
+                "country": "Japan",
+                "price": "242800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "39999000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "iPad (10th Generation)",
+        "imageUrl": "/content/ipad/ipad.png",
+        "configurations": [
+          {
+            "id": "MPQ13",
+            "specs": [
+              "A14",
+              "64GB"
+            ],
+            "pricing": [
+              {
+                "country": "India",
+                "price": "\u20b934900.00"
+              },
+              {
+                "country": "USA",
+                "price": "$349.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$499.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3349.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac429.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac439.00"
+              },
+              {
+                "country": "Japan",
+                "price": "58800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "9999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MPQ93",
+            "specs": [
+              "A14",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "India",
+                "price": "\u20b949900.00"
+              },
+              {
+                "country": "USA",
+                "price": "$499.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$699.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3499.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac599.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac609.00"
+              },
+              {
+                "country": "Japan",
+                "price": "84800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "13999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MQ6K3",
+            "specs": [
+              "A14",
+              "64GB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "India",
+                "price": "\u20b949900.00"
+              },
+              {
+                "country": "USA",
+                "price": "$499.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$699.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3499.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac599.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac609.00"
+              },
+              {
+                "country": "Japan",
+                "price": "84800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "13999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MQ6U3",
+            "specs": [
+              "A14",
+              "256GB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "India",
+                "price": "\u20b964900.00"
+              },
+              {
+                "country": "USA",
+                "price": "$649.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$899.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3649.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac769.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac779.00"
+              },
+              {
+                "country": "Japan",
+                "price": "110800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "17999000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "iPad mini",
+        "imageUrl": "/content/ipad/ipad-mini.png",
+        "configurations": [
+          {
+            "id": "MK7M3",
+            "specs": [
+              "A15",
+              "64GB"
+            ],
+            "pricing": [
+              {
+                "country": "India",
+                "price": "\u20b949900.00"
+              },
+              {
+                "country": "USA",
+                "price": "$499.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$679.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3499.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac599.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac609.00"
+              },
+              {
+                "country": "Japan",
+                "price": "84800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "13999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MK7T3",
+            "specs": [
+              "A15",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "India",
+                "price": "\u20b964900.00"
+              },
+              {
+                "country": "USA",
+                "price": "$649.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$879.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3649.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac769.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac779.00"
+              },
+              {
+                "country": "Japan",
+                "price": "110800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "17999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MK893",
+            "specs": [
+              "A14",
+              "64GB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "India",
+                "price": "\u20b964900.00"
+              },
+              {
+                "country": "USA",
+                "price": "$649.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$879.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3649.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac769.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac779.00"
+              },
+              {
+                "country": "Japan",
+                "price": "110800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "17999000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MK8F3",
+            "specs": [
+              "A14",
+              "256GB",
+              "Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "India",
+                "price": "\u20b979900.00"
+              },
+              {
+                "country": "USA",
+                "price": "$799.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$1079.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3799.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac939.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac949.00"
+              },
+              {
+                "country": "Japan",
+                "price": "136800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "21999000\u0111"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "iphones": [
+      {
+        "model": "iPhone 16 Pro",
+        "imageUrl": "/content/iphone/iphone-16-pro.png",
+        "configurations": [
+          {
+            "modelIds": {
+              "USA": "MYMC3",
+              "UK, Germany, India, France, Vietnam": "MYNF3",
+              "Japan, Canada": "MYMX3"
+            },
+            "specs": [
+              "A18",
+              "128GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$999"
+              },
+              {
+                "country": "Canada",
+                "price": "$1449.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3999.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1199.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9119900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1229.00"
+              },
+              {
+                "country": "Japan",
+                "price": "159800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "28999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MYMJ3",
+              "UK, Germany, India, France, Vietnam": "MYNK3",
+              "Japan, Canada": "MYN23"
+            },
+            "specs": [
+              "A18",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1099"
+              },
+              {
+                "country": "Canada",
+                "price": "$1599.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31099.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1329.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9129900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1359.00"
+              },
+              {
+                "country": "Japan",
+                "price": "174800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "31999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MYMN3",
+              "UK, Germany, India, France, Vietnam": "MYNP3",
+              "Japan, Canada": "MYN63"
+            },
+            "specs": [
+              "A18",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1299"
+              },
+              {
+                "country": "Canada",
+                "price": "$1899.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31299.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1579.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9149900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1609.00"
+              },
+              {
+                "country": "Japan",
+                "price": "204800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "37999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MYMT3",
+              "UK, Germany, India, France, Vietnam": "MYNW3",
+              "Japan, Canada": "MYNA3"
+            },
+            "specs": [
+              "A18",
+              "1TB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1499"
+              },
+              {
+                "country": "Canada",
+                "price": "$2199.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31499.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1829.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9169900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1859.00"
+              },
+              {
+                "country": "Japan",
+                "price": "234800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "43999000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "iPhone 16 Pro Max",
+        "imageUrl": "/content/iphone/iphone-16-pro-max.png",
+        "configurations": [
+          {
+            "modelIds": {
+              "USA": "MYW63",
+              "UK, Germany, India, France, Vietnam": "MYWY3",
+              "Japan, Canada": "MYWK3"
+            },
+            "specs": [
+              "A18",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1199"
+              },
+              {
+                "country": "Canada",
+                "price": "$1749.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31199.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1449.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9144900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1479.00"
+              },
+              {
+                "country": "Japan",
+                "price": "189800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "34999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MYWA3",
+              "UK, Germany, India, France, Vietnam": "MYX33",
+              "Japan, Canada": "MYWP3"
+            },
+            "specs": [
+              "A18",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1399"
+              },
+              {
+                "country": "Canada",
+                "price": "$2049.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31399.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1699.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9164900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1729.00"
+              },
+              {
+                "country": "Japan",
+                "price": "219800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "40999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MYWF3",
+              "UK, Germany, India, France, Vietnam": "MYX73",
+              "Japan, Canada": "MYWU3"
+            },
+            "specs": [
+              "A18",
+              "1TB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1599"
+              },
+              {
+                "country": "Canada",
+                "price": "$2349.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31599.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1949.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9184900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1979.00"
+              },
+              {
+                "country": "Japan",
+                "price": "249800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "46999000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "iPhone 16",
+        "imageUrl": "/content/iphone/iphone-16.png",
+        "configurations": [
+          {
+            "modelIds": {
+              "USA": "MXUX3",
+              "UK, Germany, India, France, Vietnam": "MYED3",
+              "Japan, Canada": "MYDV3"
+            },
+            "specs": [
+              "A18",
+              "128GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$899"
+              },
+              {
+                "country": "Canada",
+                "price": "$1129.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3799.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac949.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b979900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac969.00"
+              },
+              {
+                "country": "Japan",
+                "price": "124800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "22999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MXV43",
+              "UK, Germany, India, France, Vietnam": "MYEJ3",
+              "Japan, Canada": "MYE13"
+            },
+            "specs": [
+              "A18",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$999"
+              },
+              {
+                "country": "Canada",
+                "price": "$1279.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3899.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1079.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b989900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1099.00"
+              },
+              {
+                "country": "Japan",
+                "price": "139800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "25999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MXV93",
+              "UK, Germany, India, France, Vietnam": "MYEU3",
+              "Japan, Canada": "MYE63"
+            },
+            "specs": [
+              "A18",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1199"
+              },
+              {
+                "country": "Canada",
+                "price": "$1579.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31099.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1329.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b979900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1349.00"
+              },
+              {
+                "country": "Japan",
+                "price": "169800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "31999000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "iPhone 16 Plus",
+        "imageUrl": "/content/iphone/iphone-16-plus.png",
+        "configurations": [
+          {
+            "modelIds": {
+              "USA": "MXUW3",
+              "UK, Germany, India, France, Vietnam": "MXVX3",
+              "Japan, Canada": "MXVE3"
+            },
+            "specs": [
+              "A18",
+              "128GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$899"
+              },
+              {
+                "country": "Canada",
+                "price": "$1279.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3899.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1099.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b989900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1119.00"
+              },
+              {
+                "country": "Japan",
+                "price": "139800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "25999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MXV33",
+              "UK, Germany, India, France, Vietnam": "MXY23",
+              "Japan, Canada": "MXVK3"
+            },
+            "specs": [
+              "A18",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$999"
+              },
+              {
+                "country": "Canada",
+                "price": "$1429.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3999.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1229.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b999900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1249.00"
+              },
+              {
+                "country": "Japan",
+                "price": "154800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "28999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MXV33",
+              "UK, Germany, India, France, Vietnam": "MY2D3",
+              "Japan, Canada": "MXVR3"
+            },
+            "specs": [
+              "A18",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$999"
+              },
+              {
+                "country": "Canada",
+                "price": "$1729.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31199.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1479.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9119900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1499.00"
+              },
+              {
+                "country": "Japan",
+                "price": "184800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "34999000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "iPhone 15",
+        "imageUrl": "/content/iphone/iphone-15.png",
+        "configurations": [
+          {
+            "modelIds": {
+              "USA": "MTLW3",
+              "UK, Germany, India, France, Vietnam": "MTP13",
+              "Japan, Canada": "MTMJ3"
+            },
+            "specs": [
+              "A16",
+              "128GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$699"
+              },
+              {
+                "country": "Canada",
+                "price": "$999.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3699.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac849.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b969900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac869.00"
+              },
+              {
+                "country": "Japan",
+                "price": "112800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "19999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MTM53",
+              "UK, Germany, India, France, Vietnam": "MTP73",
+              "Japan, Canada": "MTMP3"
+            },
+            "specs": [
+              "A16",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$799"
+              },
+              {
+                "country": "Canada",
+                "price": "$1149.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3799.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac979.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b979900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac999.00"
+              },
+              {
+                "country": "Japan",
+                "price": "127800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "22999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MTMA3",
+              "UK, Germany, India, France, Vietnam": "MTPD3",
+              "Japan, Canada": "MTMV3"
+            },
+            "specs": [
+              "A16",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$999"
+              },
+              {
+                "country": "Canada",
+                "price": "$1449.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3999.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1229.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b999900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1249.00"
+              },
+              {
+                "country": "Japan",
+                "price": "157800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "28999000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "iPhone 15 Plus",
+        "imageUrl": "/content/iphone/iphone-15-plus.png",
+        "configurations": [
+          {
+            "modelIds": {
+              "USA": "MTXV3",
+              "UK, Germany, India, France, Vietnam": "MU163",
+              "Japan, Canada": "MU0D3"
+            },
+            "specs": [
+              "A16",
+              "128GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$799"
+              },
+              {
+                "country": "Canada",
+                "price": "$1149.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3799.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac949.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b979900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac969.00"
+              },
+              {
+                "country": "Japan",
+                "price": "124800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "22999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MU013",
+              "UK, Germany, India, France, Vietnam": "MU1F3",
+              "Japan, Canada": "MU0N3"
+            },
+            "specs": [
+              "A16",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$899"
+              },
+              {
+                "country": "Canada",
+                "price": "$1299.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3899.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1079.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b989900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1099.00"
+              },
+              {
+                "country": "Japan",
+                "price": "139800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "25999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MU063",
+              "UK, Germany, India, France, Vietnam": "MU1P3",
+              "Japan, Canada": "MU0W3"
+            },
+            "specs": [
+              "A16",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$1099"
+              },
+              {
+                "country": "Canada",
+                "price": "$1599.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a31099.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1329.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b9109900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1349.00"
+              },
+              {
+                "country": "Japan",
+                "price": "169800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "31999000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "iPhone 14",
+        "imageUrl": "/content/iphone/iphone-14.png",
+        "configurations": [
+          {
+            "modelIds": {
+              "USA": "MPVH3",
+              "UK, Germany, India, France, Vietnam": "MPVN3",
+              "Japan, Canada": "MPVJ3"
+            },
+            "specs": [
+              "A15",
+              "128GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$599"
+              },
+              {
+                "country": "Canada",
+                "price": "$849.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3599.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac729.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b959900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac749.00"
+              },
+              {
+                "country": "Japan",
+                "price": "95800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "17299000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MPWM3",
+              "UK, Germany, India, France, Vietnam": "MPWP3",
+              "Japan, Canada": "MPWN3"
+            },
+            "specs": [
+              "A15",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$699"
+              },
+              {
+                "country": "Canada",
+                "price": "$999.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3699.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac859.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b969900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac879.00"
+              },
+              {
+                "country": "Japan",
+                "price": "110800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "20299000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MPXL3",
+              "UK, Germany, India, France, Vietnam": "MPXN3",
+              "Japan, Canada": "MPXM3"
+            },
+            "specs": [
+              "A15",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$899"
+              },
+              {
+                "country": "Canada",
+                "price": "$1299.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3899.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1109.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b989900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1129.00"
+              },
+              {
+                "country": "Japan",
+                "price": "140800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "26299000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "iPhone 14 Plus",
+        "imageUrl": "/content/iphone/iphone-14-plus.png",
+        "configurations": [
+          {
+            "modelIds": {
+              "USA": "MQ3U3",
+              "UK, Germany, India, France, Vietnam": "MQ503",
+              "Japan, Canada": "MQ4E3"
+            },
+            "specs": [
+              "A15",
+              "128GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$699"
+              },
+              {
+                "country": "Canada",
+                "price": "$999.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3699.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac849.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b969900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac869.00"
+              },
+              {
+                "country": "Japan",
+                "price": "112800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "19999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MQ403",
+              "UK, Germany, India, France, Vietnam": "MQ563",
+              "Japan, Canada": "MQ4M3"
+            },
+            "specs": [
+              "A15",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$799"
+              },
+              {
+                "country": "Canada",
+                "price": "$1149.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3799.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac979.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b979900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac999.00"
+              },
+              {
+                "country": "Japan",
+                "price": "127800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "22999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA": "MQ463",
+              "UK, Germany, India, France, Vietnam": "MQ5E3",
+              "Japan, Canada": "MQ4U3"
+            },
+            "specs": [
+              "A15",
+              "512GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$999"
+              },
+              {
+                "country": "Canada",
+                "price": "$1449.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3999.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac1229.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b916150.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac1249.00"
+              },
+              {
+                "country": "Japan",
+                "price": "157800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "28999000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "iPhone SE",
+        "imageUrl": "/content/iphone/iphone-se.png",
+        "configurations": [
+          {
+            "modelIds": {
+              "USA, Canada": "MMX53",
+              "UK, Germany, India, France, Vietnam": "MMXF3",
+              "Japan": "MMYC3"
+            },
+            "specs": [
+              "A15",
+              "64GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$429"
+              },
+              {
+                "country": "Canada",
+                "price": "$579.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3429.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac529.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b947600.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac529.00"
+              },
+              {
+                "country": "Japan",
+                "price": "62800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "11999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA, Canada": "MMX83",
+              "UK, Germany, India, France, Vietnam": "MMXJ3",
+              "Japan": "MMYF3"
+            },
+            "specs": [
+              "A15",
+              "128GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$479"
+              },
+              {
+                "country": "Canada",
+                "price": "$649.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3479.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac599.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b952600.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac599.00"
+              },
+              {
+                "country": "Japan",
+                "price": "69800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "13449000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "USA, Canada": "MMXC3",
+              "UK, Germany, India, France, Vietnam": "MMXM3",
+              "Japan": "MMYJ3"
+            },
+            "specs": [
+              "A15",
+              "256GB"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$579"
+              },
+              {
+                "country": "Canada",
+                "price": "$789.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3579.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac729.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b962600.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac729.00"
+              },
+              {
+                "country": "Japan",
+                "price": "84800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "16299000\u0111"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "watches": [
+      {
+        "model": "Watch Series 10",
+        "imageUrl": "/content/watch/watch-s9.png",
+        "configurations": [
+          {
+            "modelIds": {
+              "UK, Canada, India": "/42mm-gps-silver-aluminium-denim-sport-band-sm",
+              "USA": "/42mm-gps-silver-aluminum-denim-sport-band-sm",
+              "Germany": "/42mm-gps-silver-aluminium-denim-sportarmband-sm",
+              "France": "/42mm-gps-silver-aluminium-denim-bracelet-sport-sm",
+              "Vietnam": "/42mm-gps-b\u1ea1c-nh\u00f4m-xanh-denim-d\u00e2y-\u0111eo-th\u1ec3-thao-sm",
+              "Japan": "/42mm-gps\u30e2\u30c7\u30eb-silver-\u30a2\u30eb\u30df\u30cb\u30a6\u30e0-\u30c7\u30cb\u30e0-\u30b9\u30dd\u30fc\u30c4\u30d0\u30f3\u30c9-sm"
+            },
+            "specs": [
+              "42mm",
+              "Aluminium",
+              "GPS"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$399"
+              },
+              {
+                "country": "Canada",
+                "price": "$549"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3399"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac449"
+              },
+              {
+                "country": "India",
+                "price": "\u20b97400.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac449"
+              },
+              {
+                "country": "Japan",
+                "price": "59800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "10999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "UK, Canada, India": "/42mm-cellular-silver-aluminium-denim-sport-band-sm",
+              "USA": "/42mm-cellular-silver-aluminum-denim-sport-band-sm",
+              "Germany": "/42mm-cellular-silver-aluminium-denim-sportarmband-sm",
+              "France": "/42mm-cellular-silver-aluminium-denim-bracelet-sport-sm",
+              "Vietnam": "/42mm-cellular-b\u1ea1c-nh\u00f4m-xanh-denim-d\u00e2y-\u0111eo-th\u1ec3-thao-sm",
+              "Japan": "/42mm-cellular\u30e2\u30c7\u30eb-silver-\u30a2\u30eb\u30df\u30cb\u30a6\u30e0-\u30c7\u30cb\u30e0-\u30b9\u30dd\u30fc\u30c4\u30d0\u30f3\u30c9-sm"
+            },
+            "specs": [
+              "42mm",
+              "Aluminium",
+              "GPS + Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$499"
+              },
+              {
+                "country": "Canada",
+                "price": "$679"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3499"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac569"
+              },
+              {
+                "country": "India",
+                "price": "\u20b99067.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac569"
+              },
+              {
+                "country": "Japan",
+                "price": "75800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "10999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "UK, Germany, France": "?option.watch_cases=MX0J3QF%2FA&option.watch_bands=MXLE3ZM%2FA&product=Z0YQ",
+              "Canada": "?option.watch_cases=MX0J3AM%2FA&option.watch_bands=MXLE3AM%2FA&product=Z0YQ",
+              "India": "/42mm-cellular-natural-titanium-stone-grey-sport-band-sm",
+              "USA": "?option.watch_cases=MX0J3LW%2FA&option.watch_bands=MXLE3AM%2FA&product=Z0YQ",
+              "Vietnam": "?option.watch_cases=MX0J3SA%2FA&option.watch_bands=MXLE3FE%2FA&product=Z0YQ",
+              "Japan": "?option.watch_cases=MX0J3J%2FA&option.watch_bands=MXLE3FE%2FA&product=Z0YQ"
+            },
+            "specs": [
+              "42mm",
+              "Titanium",
+              "GPS + Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$699"
+              },
+              {
+                "country": "Canada",
+                "price": "$999"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3399"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac799"
+              },
+              {
+                "country": "India",
+                "price": "\u20b912900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac799"
+              },
+              {
+                "country": "Japan",
+                "price": "109800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "19999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "UK, Canada, India": "/46mm-gps-silver-aluminium-denim-sport-band-sm",
+              "USA": "/46mm-gps-silver-aluminum-denim-sport-band-sm",
+              "Germany": "/46mm-gps-silver-aluminium-denim-sportarmband-sm",
+              "France": "/46mm-gps-silver-aluminium-denim-bracelet-sport-sm",
+              "Vietnam": "/46mm-gps-b\u1ea1c-nh\u00f4m-xanh-denim-d\u00e2y-\u0111eo-th\u1ec3-thao-sm",
+              "Japan": "/46mm-gps\u30e2\u30c7\u30eb-silver-\u30a2\u30eb\u30df\u30cb\u30a6\u30e0-\u30c7\u30cb\u30e0-\u30b9\u30dd\u30fc\u30c4\u30d0\u30f3\u30c9-sm"
+            },
+            "specs": [
+              "46mm",
+              "Aluminium",
+              "GPS"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$429"
+              },
+              {
+                "country": "Canada",
+                "price": "$589"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3429"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac479"
+              },
+              {
+                "country": "India",
+                "price": "\u20b97900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac479"
+              },
+              {
+                "country": "Japan",
+                "price": "64800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "11799000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "UK, Canada, India": "/46mm-cellular-silver-aluminium-denim-sport-band-sm",
+              "USA": "/46mm-cellular-silver-aluminum-denim-sport-band-sm",
+              "Germany": "/46mm-cellular-silver-aluminium-denim-sportarmband-sm",
+              "France": "/46mm-cellular-silver-aluminium-denim-bracelet-sport-sm",
+              "Vietnam": "/46mm-cellular-b\u1ea1c-nh\u00f4m-xanh-denim-d\u00e2y-\u0111eo-th\u1ec3-thao-sm",
+              "Japan": "/46mm-cellular\u30e2\u30c7\u30eb-silver-\u30a2\u30eb\u30df\u30cb\u30a6\u30e0-\u30c7\u30cb\u30e0-\u30b9\u30dd\u30fc\u30c4\u30d0\u30f3\u30c9-sm"
+            },
+            "specs": [
+              "46mm",
+              "Aluminium",
+              "GPS + Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$529"
+              },
+              {
+                "country": "Canada",
+                "price": "$719"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3529"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac599"
+              },
+              {
+                "country": "India",
+                "price": "\u20b99567.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac599"
+              },
+              {
+                "country": "Japan",
+                "price": "80800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "10999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "UK, Germany, France": "?option.watch_cases=MX163QA%2FA&option.watch_bands=MXLV3ZM%2FA&product=Z0YQ",
+              "Canada": "?option.watch_cases=MX163AM%2FA&option.watch_bands=MXLV3AM%2FA&product=Z0YQ",
+              "India": "/46mm-cellular-natural-titanium-stone-grey-sport-band-sm",
+              "USA": "?option.watch_cases=MX163LW%2FA&option.watch_bands=MXLV3AM%2FA&product=Z0YQ",
+              "Vietnam": "?option.watch_cases=MX163SA%2FA&option.watch_bands=MXLV3FE%2FA&product=Z0YQ",
+              "Japan": "?option.watch_cases=MX163J%2FA&option.watch_bands=MXLV3FE%2FA&product=Z0YQ"
+            },
+            "specs": [
+              "46mm",
+              "Titanium",
+              "GPS + Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$749"
+              },
+              {
+                "country": "Canada",
+                "price": "$1069"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3749"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac449"
+              },
+              {
+                "country": "India",
+                "price": "\u20b913733.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac449"
+              },
+              {
+                "country": "Japan",
+                "price": "117800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "21299000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "Watch Ultra 2",
+        "imageUrl": "/content/watch/watch-ultra-2.png",
+        "configurations": [
+          {
+            "modelIds": {
+              "UK, Canada, India": "-ultra/49mm-cellular-black-titanium-dark-green-alpine-loop-small",
+              "USA": "-ultra/49mm-cellular-black-titanium-navy-alpine-loop-small",
+              "Germany": "-ultra/49mm-cellular-black-titan-marine-alpine-loop-small",
+              "France": "-ultra/49mm-cellular-black-titane-marine-boucle-alpine-small",
+              "Vietnam": "-ultra/49mm-di-\u0111\u1ed9ng-black-titan-n\u00e2u-da-nh\u1ea1t-d\u00e2y-qu\u1ea5n-alpine-nh\u1ecf",
+              "Japan": "-ultra/49mm-cellular\u30e2\u30c7\u30eb-black-\u30c1\u30bf\u30cb\u30a6\u30e0-\u30cd\u30a4\u30d3\u30fc-\u30a2\u30eb\u30d1\u30a4\u30f3\u30eb\u30fc\u30d7-s"
+            },
+            "specs": [
+              "46mm",
+              "Titanium",
+              "GPS + Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$799"
+              },
+              {
+                "country": "Canada",
+                "price": "$1099"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3799"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac899"
+              },
+              {
+                "country": "India",
+                "price": "\u20b914317.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac899"
+              },
+              {
+                "country": "Japan",
+                "price": "128800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "22999000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "Watch SE",
+        "imageUrl": "/content/watch/watch-se.png",
+        "configurations": [
+          {
+            "modelIds": {
+              "UK, Canada, India": "-se/40mm-gps-midnight-aluminium-midnight-sport-band-sm-se",
+              "USA": "-se/40mm-gps-midnight-aluminum-denim-sport-band-sm-se",
+              "Germany": "-se/40mm-gps-mitternacht-aluminium-denim-sportarmband-sm-se",
+              "France": "-se/40mm-gps-minuit-aluminium-denim-bracelet-sport-sm-se",
+              "Vietnam": "-se/40mm-gps-\u0111\u00eam-xanh-th\u1eb3m-nh\u00f4m-xanh-denim-d\u00e2y-\u0111eo-th\u1ec3-thao-sm-se",
+              "Japan": "-se/40mm-gps\u30e2\u30c7\u30eb-\u30df\u30c3\u30c9\u30ca\u30a4\u30c8-\u30a2\u30eb\u30df\u30cb\u30a6\u30e0-\u30c7\u30cb\u30e0-\u30b9\u30dd\u30fc\u30c4\u30d0\u30f3\u30c9-sm-se"
+            },
+            "specs": [
+              "40mm",
+              "GPS"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$249"
+              },
+              {
+                "country": "Canada",
+                "price": "$329"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3219"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac249"
+              },
+              {
+                "country": "India",
+                "price": "\u20b93817.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac249"
+              },
+              {
+                "country": "Japan",
+                "price": "34800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "5999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "UK, Canada, India": "-se/40mm-cellular-midnight-aluminium-midnight-sport-band-sm-se",
+              "USA": "-se/40mm-cellular-midnight-aluminum-denim-sport-band-sm-se",
+              "Germany": "-se/40mm-cellular-mitternacht-aluminium-denim-sportarmband-sm-se",
+              "France": "-se/40mm-cellular-minuit-aluminium-denim-bracelet-sport-sm-se",
+              "Vietnam": "-se/40mm-cellular-\u0111\u00eam-xanh-th\u1eb3m-nh\u00f4m-xanh-denim-d\u00e2y-\u0111eo-th\u1ec3-thao-sm-se",
+              "Japan": "-se/40mm-cellular\u30e2\u30c7\u30eb-\u30df\u30c3\u30c9\u30ca\u30a4\u30c8-\u30a2\u30eb\u30df\u30cb\u30a6\u30e0-\u30c7\u30cb\u30e0-\u30b9\u30dd\u30fc\u30c4\u30d0\u30f3\u30c9-sm-se"
+            },
+            "specs": [
+              "40mm",
+              "GPS + Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$299"
+              },
+              {
+                "country": "Canada",
+                "price": "$399"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3289"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac299"
+              },
+              {
+                "country": "India",
+                "price": "\u20b94650.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac299"
+              },
+              {
+                "country": "Japan",
+                "price": "42800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "5999000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "UK, Canada, India": "-se/44mm-gps-midnight-aluminium-midnight-sport-band-sm-se",
+              "USA": "-se/44mm-gps-midnight-aluminum-denim-sport-band-sm-se",
+              "Germany": "-se/44mm-gps-mitternacht-aluminium-denim-sportarmband-sm-se",
+              "France": "-se/44mm-gps-minuit-aluminium-denim-bracelet-sport-sm-se",
+              "Vietnam": "-se/44mm-gps-\u0111\u00eam-xanh-th\u1eb3m-nh\u00f4m-xanh-denim-d\u00e2y-\u0111eo-th\u1ec3-thao-sm-se",
+              "Japan": "-se/44mm-gps\u30e2\u30c7\u30eb-\u30df\u30c3\u30c9\u30ca\u30a4\u30c8-\u30a2\u30eb\u30df\u30cb\u30a6\u30e0-\u30c7\u30cb\u30e0-\u30b9\u30dd\u30fc\u30c4\u30d0\u30f3\u30c9-sm-se"
+            },
+            "specs": [
+              "44mm",
+              "GPS"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$279"
+              },
+              {
+                "country": "Canada",
+                "price": "$369"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3249"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac279"
+              },
+              {
+                "country": "India",
+                "price": "\u20b94317.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac279"
+              },
+              {
+                "country": "Japan",
+                "price": "39800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "6799000\u0111"
+              }
+            ]
+          },
+          {
+            "modelIds": {
+              "UK, Canada, India": "-se/44mm-cellular-midnight-aluminium-midnight-sport-band-sm-se",
+              "USA": "-se/44mm-cellular-midnight-aluminum-denim-sport-band-sm-se",
+              "Germany": "-se/44mm-cellular-mitternacht-aluminium-denim-sportarmband-sm-se",
+              "France": "-se/44mm-cellular-minuit-aluminium-denim-bracelet-sport-sm-se",
+              "Vietnam": "-se/44mm-cellular-\u0111\u00eam-xanh-th\u1eb3m-nh\u00f4m-xanh-denim-d\u00e2y-\u0111eo-th\u1ec3-thao-sm-se",
+              "Japan": "-se/44mm-cellular\u30e2\u30c7\u30eb-\u30df\u30c3\u30c9\u30ca\u30a4\u30c8-\u30a2\u30eb\u30df\u30cb\u30a6\u30e0-\u30c7\u30cb\u30e0-\u30b9\u30dd\u30fc\u30c4\u30d0\u30f3\u30c9-sm-se"
+            },
+            "specs": [
+              "44mm",
+              "GPS + Cellular"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$329"
+              },
+              {
+                "country": "Canada",
+                "price": "$439"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3319"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac329"
+              },
+              {
+                "country": "India",
+                "price": "\u20b95150.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac329"
+              },
+              {
+                "country": "Japan",
+                "price": "47800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "5999000\u0111"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "airpods": [
+      {
+        "model": "Airpods 4",
+        "imageUrl": "/content/airpods/airpods-4.png",
+        "configurations": [
+          {
+            "id": "MXP63",
+            "specs": [],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$129.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$179.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3129.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac149.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b91900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac149.00"
+              },
+              {
+                "country": "Japan",
+                "price": "21800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "3499000\u0111"
+              }
+            ]
+          },
+          {
+            "id": "MXP93",
+            "specs": [
+              "Active Noise Cancellation"
+            ],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$179.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$249.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3179.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac199.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b92733.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac199.00"
+              },
+              {
+                "country": "Japan",
+                "price": "29800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "4799000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "Airpods Pro 2",
+        "imageUrl": "/content/airpods/airpods-pro-2.png",
+        "configurations": [
+          {
+            "id": "MUYG3",
+            "specs": [],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$99.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$129.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a389.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac109.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b924900.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac109.00"
+              },
+              {
+                "country": "Japan",
+                "price": "15800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "2499000\u0111"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "Airpods Max",
+        "imageUrl": "/content/airpods/airpods-max.png",
+        "configurations": [
+          {
+            "id": "MWW63",
+            "specs": [],
+            "pricing": [
+              {
+                "country": "USA",
+                "price": "$549.00"
+              },
+              {
+                "country": "Canada",
+                "price": "$779.00"
+              },
+              {
+                "country": "UK",
+                "price": "\u00a3499.00"
+              },
+              {
+                "country": "Germany",
+                "price": "\u20ac579.00"
+              },
+              {
+                "country": "India",
+                "price": "\u20b99317.00"
+              },
+              {
+                "country": "France",
+                "price": "\u20ac579.00"
+              },
+              {
+                "country": "Japan",
+                "price": "84800\u5186"
+              },
+              {
+                "country": "Vietnam",
+                "price": "13199000\u0111"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

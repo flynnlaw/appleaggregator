@@ -1,0 +1,186 @@
+{
+    "models": [
+      {
+        "model": "Macbook Pro 14-inch",
+        "imageUrl": "/content/mac/mbp.jpeg",
+        "configurations": [
+          {
+            "id": "MTL73",
+            "url":"/buy-mac/macbook-pro/14-inch-space-grey-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-512gb",
+            "specs": [
+              "14-inch",
+              "M3",
+              "8GB",
+              "512GB"
+            ],
+            "pricing": [
+              { "country": "USA", "price": "$800" },
+              { "country": "Canada", "price": "CAD 1050" },
+              { "country": "UK", "price": "£750" },
+              { "country": "Germany", "price": "€900" },
+              { "country": "India", "price": "₹70000" }
+            ]
+          },
+          {
+            "id": "MTL83",
+            "url":"buy-mac/macbook-pro/14-inch-space-grey-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-1tb",
+            "specs": [
+              "14 inch",
+              "M3",
+              "8GB",
+              "1TB"
+            ],
+            "pricing": [
+              { "country": "USA", "price": "$1000" },
+              { "country": "Canada", "price": "CAD 1300" },
+              { "country": "UK", "price": "£900" },
+              { "country": "Germany", "price": "€1100" },
+              { "country": "India", "price": "₹85000" }
+            ]
+          },
+          {
+            "id": "MXE03",
+            "url":"buy-mac/macbook-pro/14-inch-space-grey-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-16gb-memory-1tb",
+            "specs": [
+              "14 inch",
+              "M3",
+              "16GB",
+              "1TB"
+            ],
+            "pricing": [
+              { "country": "USA", "price": "$1000" },
+              { "country": "Canada", "price": "CAD 1300" },
+              { "country": "UK", "price": "£900" },
+              { "country": "Germany", "price": "€1100" },
+              { "country": "India", "price": "₹85000" }
+            ]
+          },
+          {
+            "id": "MRX33",
+            "url":"buy-mac/macbook-pro/14-inch-space-black-apple-m3-pro-with-11-core-cpu-and-14-core-gpu-18gb-memory-512gb",
+            "specs": [
+              "14 inch",
+              "M3 Pro",
+              "18GB",
+              "512GB"
+            ],
+            "pricing": [
+              { "country": "USA", "price": "$1000" },
+              { "country": "Canada", "price": "CAD 1300" },
+              { "country": "UK", "price": "£900" },
+              { "country": "Germany", "price": "€1100" },
+              { "country": "India", "price": "₹85000" }
+            ]
+          },
+          {
+            "id": "MRX43",
+            "url":"buy-mac/macbook-pro/14-inch-space-black-apple-m3-pro-with-12-core-cpu-and-18-core-gpu-18gb-memory-1tb",
+            "specs": [
+              "14 inch",
+              "M3 Pro",
+              "18GB",
+              "1TB"
+            ],
+            "pricing": [
+              { "country": "USA", "price": "$1000" },
+              { "country": "Canada", "price": "CAD 1300" },
+              { "country": "UK", "price": "£900" },
+              { "country": "Germany", "price": "€1100" },
+              { "country": "India", "price": "₹85000" }
+            ]
+          },
+          {
+            "id": "MRX53",
+            "url":"https://www.apple.com/uk/shop/buy-mac/macbook-pro/14-inch-space-black-apple-m3-max-with-14-core-cpu-and-30-core-gpu-36gb-memory-1tb",
+            "specs": [
+              "14 inch",
+              "M3 Max",
+              "36GB",
+              "1TB"
+            ],
+            "pricing": [
+              { "country": "USA", "price": "$1000" },
+              { "country": "Canada", "price": "CAD 1300" },
+              { "country": "UK", "price": "£900" },
+              { "country": "Germany", "price": "€1100" },
+              { "country": "India", "price": "₹85000" }
+            ]
+          }
+        ]
+      },
+      {
+        "model": "Macbook Pro 16-inch",
+        "imageUrl": "/content/mac/mbp.jpeg",
+        "configurations": [
+          {
+            "id": "MRW13",
+            "url":"buy-mac/macbook-pro/16-inch-space-black-apple-m3-pro-with-12-core-cpu-and-18-core-gpu-18gb-memory-512gb",
+            "specs": [
+              "16 inch",
+              "M3 Pro",
+              "18GB",
+              "512GB"
+            ],
+            "pricing": [
+              { "country": "USA", "price": "$1200" },
+              { "country": "Canada", "price": "CAD 1500" },
+              { "country": "UK", "price": "£1100" },
+              { "country": "Germany", "price": "€1300" },
+              { "country": "India", "price": "₹100000" }
+            ]
+          },
+          {
+            "id": "MRW23",
+            "url":"buy-mac/macbook-pro/16-inch-space-black-apple-m3-pro-with-12-core-cpu-and-18-core-gpu-36gb-memory-512gb",
+            "specs": [
+              "16 inch",
+              "M3 Pro",
+              "36GB",
+              "512GB"
+            ],
+            "pricing": [
+              { "country": "USA", "price": "$1200" },
+              { "country": "Canada", "price": "CAD 1500" },
+              { "country": "UK", "price": "£1100" },
+              { "country": "Germany", "price": "€1300" },
+              { "country": "India", "price": "₹100000" }
+            ]
+          },
+          {
+            "id": "MRW33",
+            "url":"buy-mac/macbook-pro/16-inch-space-black-apple-m3-max-with-14-core-cpu-and-30-core-gpu-36gb-memory-1tb",
+            "specs": [
+              "16 inch",
+              "M3 Max",
+              "36GB",
+              "1TB"
+            ],
+            "pricing": [
+              { "country": "USA", "price": "$1200" },
+              { "country": "Canada", "price": "CAD 1500" },
+              { "country": "UK", "price": "£1100" },
+              { "country": "Germany", "price": "€1300" },
+              { "country": "India", "price": "₹100000" }
+            ]
+          },
+          {
+            "id": "MUW63",
+            "url":"https://www.apple.com/uk/shop/buy-mac/macbook-pro/16-inch-space-black-apple-m3-max-with-16-core-cpu-and-40-core-gpu-48gb-memory-1tb",
+            "specs": [
+              "16 inch",
+              "M3 Pro",
+              "48GB",
+              "1TB"
+            ],
+            "pricing": [
+              { "country": "USA", "price": "$1200" },
+              { "country": "Canada", "price": "CAD 1500" },
+              { "country": "UK", "price": "£1100" },
+              { "country": "Germany", "price": "€1300" },
+              { "country": "India", "price": "₹100000" }
+            ]
+          }
+        ]
+      }
+    ]
+  }

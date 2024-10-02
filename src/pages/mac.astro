@@ -1,0 +1,87 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ProductPanel from '../components/ProductPanel.astro';
+import laptopsData from '../data/data.json';
+
+
+interface PaneItem {
+  href: string;
+  svgPath: string;
+  text: string;
+  customClass: string;
+}
+
+const selectedConfigurations = [
+  { config: laptopsData.hardware.macs[3].configurations[0], model: laptopsData.hardware.macs[3] },
+  { config: laptopsData.hardware.macs[5].configurations[2], model: laptopsData.hardware.macs[5] },
+  { config: laptopsData.hardware.macs[7].configurations[1], model: laptopsData.hardware.macs[7] }
+];
+
+
+const paneItems: PaneItem[] = [
+  {
+    href: '/macbook-air',
+    svgPath: '/icons/macbook_air_icon.svg',
+    text: 'Macbook Air',
+    customClass: 'macbook-air-style',
+  },
+  {
+    href: '/macbook-pro',
+    svgPath: '/icons/macbook_pro_icon.svg',
+    text: 'Macbook Pro',
+    customClass: 'macbook-pro-style',
+  },
+  {
+    href: '/imac',
+    svgPath: '/icons/imac_icon.svg',
+    text: 'iMac',
+    customClass: 'imac-style',
+  },
+  {
+    href: '/mac-mini',
+    svgPath: '/icons/mac_mini_icon.svg',
+    text: 'Mac Mini',
+    customClass: 'mac-mini-style',
+  },
+  {
+    href: '/mac-studio',
+    svgPath: '/icons/mac_studio_icon.svg',
+    text: 'Mac Studio',
+    customClass: 'mac-studio-style',
+  },
+];
+
+
+---
+<Layout title="Welcome to Astro." paneItems={paneItems}>
+  <main>
+	  <ul role="list" class="link-card-grid">
+      {selectedConfigurations.map(({ config, model }, index) => (
+        <li>
+          <ProductPanel
+            imageUrl={model.imageUrl}
+            specs={config.specs}
+            pricing={config.pricing}
+          />
+        </li>
+      ))}
+    </ul>
+  </main>
+</Layout>
+
+<style>
+  main {
+    margin: auto;
+    padding: 1rem;
+    width: 100%;
+    max-width: 1200px;
+    color: white;
+    font-size: 20px;
+    line-height: 1.6;
+  }
+  .link-card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+</style>

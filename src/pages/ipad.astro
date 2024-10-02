@@ -1,0 +1,81 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ProductPanel from '../components/ProductPanel.astro';
+import laptopsData from '../data/data.json';
+
+
+interface PaneItem {
+  href: string;
+  svgPath: string;
+  text: string;
+  customClass: string;
+}
+
+const selectedConfigurations = [
+  { config: laptopsData.hardware.ipads[0].configurations[0], model: laptopsData.hardware.ipads[0] },
+  { config: laptopsData.hardware.ipads[2].configurations[2], model: laptopsData.hardware.ipads[2] },
+  { config: laptopsData.hardware.ipads[3].configurations[1], model: laptopsData.hardware.ipads[3] }
+];
+
+
+const paneItems: PaneItem[] = [
+  {
+    href: '/ipad-pro',
+    svgPath: '/icons/ipad_pro_icon.svg',
+    text: 'iPad Pro',
+    customClass: 'ipad-pro-style',
+  },
+  {
+    href: '/ipad-air',
+    svgPath: '/icons/ipad_pro_icon.svg',
+    text: 'iPad Air',
+    customClass: 'ipad-pro-style',
+  },
+  {
+    href: '/ipad-base',
+    svgPath: '/icons/ipad_normal_icon.svg',
+    text: 'iPad',
+    customClass: 'ipad-base-style',
+  },
+  {
+    href: '/ipad-mini',
+    svgPath: '/icons/ipad_mini_icon.svg',
+    text: 'iPad Mini',
+    customClass: 'ipad-mini-style',
+  }
+];
+
+
+---
+<Layout title="Welcome to Astro." paneItems={paneItems}>
+  <main>
+	  <ul role="list" class="link-card-grid">
+      {selectedConfigurations.map(({ config, model }, index) => (
+        <li>
+          <ProductPanel
+            imageUrl={model.imageUrl}
+            specs={config.specs}
+            pricing={config.pricing}
+          />
+        </li>
+      ))}
+    </ul>
+  </main>
+</Layout>
+
+<style>
+  main {
+    margin: auto;
+    padding: 1rem;
+    width: 100%;
+    max-width: 1200px;
+    color: white;
+    font-size: 20px;
+    line-height: 1.6;
+  }
+  .link-card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+</style>

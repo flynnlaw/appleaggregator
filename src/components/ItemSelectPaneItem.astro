@@ -1,0 +1,158 @@
+---
+// src/components/ItemSelectPaneItem.astro
+
+interface Props {
+  href: string;
+  svgPath: string;
+  text: string;
+  customClass?: string; // Optional class for additional styling
+}
+
+const { href, svgPath, text, customClass } = Astro.props;
+---
+
+<a href={href} class={`flex flex-col items-center text-teal-900 hover:text-teal-700 ${customClass}`}>
+  <img src={svgPath} alt={text} class="object-cover" />
+  <span class="text-sm font-bold mt-1">{text}</span>
+</a>
+
+<style>
+  /* Specific styles for Macbook Pro */
+  .macbook-pro-style {
+    width: 125px;
+    height: 72px;
+  }
+
+    .macbook-pro-style img {
+    width: 85px;
+    height: 72px;
+  }
+
+  .macbook-air-style {
+    width: 125px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+  }
+
+    .macbook-air-style img {
+    width: 79px;
+    height: 52px;
+  }
+
+  .imac-style{
+    width: 83px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+  }
+
+    .imac-style img{
+    width: 43px;
+    height: 52px;
+  }
+
+  /* Mac Mini Style */
+.mac-mini-style {
+  width: 89.62px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Ensure content is centered */
+}
+
+  .mac-mini-style img {
+  width: 28px;
+  height: auto; /* Maintain aspect ratio */
+}
+
+/* Mac Studio Style */
+.mac-studio-style {
+  width: 102.44px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Ensure content is centered */
+}
+
+  .mac-studio-style img {
+  width: 28px;
+  height: auto; /* Maintain aspect ratio */
+}
+
+  /* Specific styles for iPad Pro */
+.ipad-pro-style {
+    width: 82.38px;
+    height: 72px;
+  }
+
+  .ipad-pro-style img {
+    width: 41px;
+    height: 52px;
+  }
+
+.ipad-base-style{
+  width:70px;
+  height:72px;
+
+}
+  .ipad-base-style img {
+    width:30px;
+    height:52px; 
+  }
+
+.ipad-mini-style{
+  width:93.27px;
+  height:72px;
+}
+  .ipad-mini-style img{
+    width:23px;
+    height:52px;
+  }
+
+  /* Specific styles for iPhone */
+.iphone-16-style {
+    width: 93.88px;
+    height: 76px;
+  }
+
+  .iphone-16-style img {
+    width: 38px;
+    height: 56px;
+  }
+
+.iphone-se-style {
+    width: 55.69px;
+    height: 76px;
+  }
+
+  .iphone-se-style img {
+    width: 19px;
+    height: 56px;
+  }
+
+
+  
+
+  /* Apple Watch specific styles */
+.apple-watch-style {
+      width: 98px;
+      height: 91px;
+    }
+
+  .apple-watch-style img {
+      width: 28x;
+      height: 56px;
+    }
+
+    /* AirPods specific styles */
+.airpods-style {
+      width: 125.59px;
+      height: 96px;
+    }
+
+  .airpods-style img {
+      width: 39px;
+      height: 54px;
+    }
+</style>

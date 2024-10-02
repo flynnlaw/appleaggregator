@@ -1,0 +1,87 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ProductPanel from '../components/ProductPanel.astro';
+import laptopsData from '../data/data.json';
+
+
+interface PaneItem {
+  href: string;
+  svgPath: string;
+  text: string;
+  customClass: string;
+}
+
+const selectedConfigurations = [
+  { config: laptopsData.hardware.iphones[1].configurations[0], model: laptopsData.hardware.iphones[1] },
+  { config: laptopsData.hardware.iphones[2].configurations[2], model: laptopsData.hardware.iphones[2] },
+  { config: laptopsData.hardware.iphones[6].configurations[2], model: laptopsData.hardware.iphones[6] }
+];
+
+
+const paneItems: PaneItem[] = [
+  {
+    href: '/iphone-16-pro',
+    svgPath: '/icons/iphone_16_pro_icon.svg',
+    text: 'iPhone 16 Pro',
+    customClass: 'iphone-16-style',
+  },
+  {
+    href: '/iphone-16',
+    svgPath: '/icons/iphone_16_icon.svg',
+    text: 'iPhone 16',
+    customClass: 'iphone-16-style',
+  },
+  {
+    href: '/iphone-15',
+    svgPath: '/icons/iphone_15_icon.svg',
+    text: 'iPhone 15',
+    customClass: 'iphone-16-style',
+  },
+  {
+    href: '/iphone-14',
+    svgPath: '/icons/iphone_14_icon.svg',
+    text: 'iPhone 14',
+    customClass: 'iphone-16-style',
+  },
+  {
+    href: '/iphone-se',
+    svgPath: '/icons/iphone_se_icon.svg',
+    text: 'iPhone SE',
+    customClass: 'iphone-se-style',
+  }
+];
+
+
+---
+<Layout title="Welcome to Astro." paneItems={paneItems}>
+  <main>
+	  <ul role="list" class="link-card-grid">
+      {selectedConfigurations.map(({ config, model }, index) => (
+        <li>
+          <ProductPanel
+            imageUrl={model.imageUrl}
+            specs={config.specs}
+            pricing={config.pricing}
+          />
+        </li>
+      ))}
+    </ul>
+  </main>
+</Layout>
+
+<style>
+  main {
+    margin: auto;
+    padding: 1rem;
+    width: 100%;
+    max-width: 1200px;
+    color: white;
+    font-size: 20px;
+    line-height: 1.6;
+  }
+  .link-card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+</style>

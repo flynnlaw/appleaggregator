@@ -1,0 +1,154 @@
+---
+interface Pricing {
+  country: string;
+  price: string;
+}
+
+interface Props {
+  imageUrl: string;
+  specs: string[];
+  pricing: Pricing[];
+}
+
+const { imageUrl, specs, pricing } = Astro.props;
+
+// Currency conversion rates (example values, adjust as needed or fetch from an API)
+const conversionRates: { [key: string]: number } = {
+  USD: 1,
+  EUR: 0.85,
+  GBP: 0.75,
+  JPY: 110,
+};
+
+// Default currency and conversion rate
+let selectedCurrency = 'USD';
+let selectedRate = conversionRates[selectedCurrency];
+
+// Function to extract numeric value from price string
+const getPriceValue = (priceString: string): number => {
+  const price = priceString.replace(/[^0-9.,]/g, ''); // Remove non-numeric characters (excluding '.' and ',')
+  return parseFloat(price.replace(',', '')) || Number.MAX_VALUE; // Handle locales and convert to number; set MAX_VALUE for "Unavailable"
+};
+
+// Sort pricing array by price in the selected currency
+const sortedPricing = pricing.sort((a, b) => {
+  const priceA = a.price === 'Unavailable' ? Number.MAX_VALUE : getPriceValue(a.price);
+  const priceB = b.price === 'Unavailable' ? Number.MAX_VALUE : getPriceValue(b.price);
+  return priceA - priceB;
+});
+
+---
+
+<!-- Product panel with pricing -->
+<div class="product-panel">
+  <div class="image-section">
+    <img src={imageUrl} class="product-image" alt="Product Image" />
+  </div>
+  <div class="info-section">
+    <div class="specs small mb-4 text-center">
+      {specs.join(' | ')}
+    </div>
+    <hr />
+    <div class="pricing-container">
+      <table class="pricing-table">
+        <thead>
+          <tr>
+            <th>Country</th>
+            <th>Price</th>
+          </tr>
+        </thead>
+        <tbody>
+          {sortedPricing.map((price) => (
+            <tr>
+              <td>{price.country}</td>
+              <td>{price.price}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<style>
+  .currency-selector {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+  .product-panel {
+    background: #222;
+    padding: 1rem;
+    border-radius: 8px;
+    color: #fff;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+  }
+
+  .image-section {
+    background: #fff;
+    border-radius: 8px 8px 0 0;
+    padding: 1rem;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+  }
+
+  .product-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .info-section {
+    background: #333;
+    padding: 1rem;
+    border-radius: 0 0 8px 8px;
+  }
+
+  .specs {
+    color: #6c757d !important;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .pricing-container {
+    max-height: 200px;
+    overflow-y: auto;
+    border-top: 1px solid #444;
+  }
+
+  .pricing-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .pricing-table th,
+  .pricing-table td {
+    padding: 0.5rem;
+    border-bottom: 1px solid #444;
+    text-align: left;
+  }
+
+  .pricing-table th {
+    color: #ccc;
+  }
+
+  .pricing-table td {
+    color: #fff;
+  }
+
+  @media (max-width: 768px) {
+    .specs {
+      font-size: 0.9rem;
+    }
+  }
+</style>

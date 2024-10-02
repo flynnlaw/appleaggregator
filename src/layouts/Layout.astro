@@ -1,22 +1,35 @@
 ---
+import Itemselect from "../components/ItemSelectPane.astro"; 
 interface Props {
 	title: string;
+	description?: string;
+	image?: string;
+	paneItems: PaneItem[];
 }
 
-const { title } = Astro.props;
+interface PaneItem {
+  href: string;
+  svgPath: string;
+  text: string;
+  customClass: string;
+}
+
+const { title, description="Default", image = "ex.jpg", paneItems } = Astro.props;
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="description" content="Astro description" />
+		<meta name="description" content={description} />
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
+		<meta property="og:image" content = {image}/>
 		<title>{title}</title>
 	</head>
-	<body>
+	<body class="min-h-screen">
+		<Itemselect paneItems={paneItems}/>
 		<slot />
 	</body>
 </html>
